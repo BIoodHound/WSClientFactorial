@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/WSFactorialWA/factorialService?Tester" uri="src/conf/xml-resources/web-service-references/factorialService_Tester/wsdl/localhost_8080/WSFactorialWA/factorialService.tester"/>
+    <system systemId="http://localhost:8080/WSFactorialWA/factorialService?wsdl" uri="src/conf/xml-resources/web-service-references/factorialService/wsdl/localhost_8080/WSFactorialWA/factorialService.wsdl"/>
+    <system systemId="http://localhost:8080/WSFactorialWA/factorialService?xsd=1" uri="src/conf/xml-resources/web-service-references/factorialService/wsdl/localhost_8080/WSFactorialWA/factorialService.xsd_1.xsd"/>
+</catalog>
